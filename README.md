@@ -50,28 +50,28 @@ Senior Full Stack Engineer and Engineering Lead with nearly 5 years of experienc
 <tr>
 <td width="50%" valign="top">
 
-### 📦 Shippzi B2B — Logistics Platform
-*Dedicated rider dispatch engine connecting vendors to pinned riders.*[cite: 1]
+### 📦 Shippzi — Logistics Platform
+*Dedicated logistics ecosystem connecting vendors to riders.*
 
-* **Role:** Architect & Engineering Lead[cite: 1]
-* **Stack:** Node.js, Fastify, Redis, WebSockets, TomTom Maps, Leaflet, OSRM, Capacitor[cite: 1]
+* **Role:** Architect & Engineering Lead
+* **Stack:** React.js, Capacitor, Node.js, Redis, WebSockets, TomTom Maps
+* **Live:** [![Website](https://img.shields.io/badge/Live-shippzi.com-00f2fe?style=flat-square&logo=googlechrome)](https://shippzi.com/) [![Play Store](https://img.shields.io/badge/App-Shippzi_Rider-00C99F?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.shippzi.rider)
 * **Key Architecture:**
-  * Real-time automated dispatch engine using Redis pub/sub and WebSockets to route orders instantly without manual dispatching[cite: 1].
-  * Integrated TomTom and OSRM for dynamic route computation and live delivery updates[cite: 1].
-  * Production infrastructure provisioned and maintained on Linode[cite: 1].
+  * Developed the dedicated Rider App using React and Capacitor for cross-platform mobile deployment.
+  * Powered by a real-time dispatch engine using Redis pub/sub and WebSockets to route orders instantly.
 
 </td>
 <td width="50%" valign="top">
 
-### 🚗 Shippzi B2C — Ride-Hailing Platform
-*Real-time driver matching and live tracking infrastructure.*[cite: 1]
+### 🚗 Oyride — Ride-Hailing Platform
+*End-to-end driver matching and live tracking ecosystem.*
 
-* **Role:** Team Lead & Driver App Owner[cite: 1]
-* **Stack:** React Native, Fastify, Google Maps SDK, WebSockets, Linode[cite: 1]
+* **Role:** Lead Full Stack Engineer
+* **Stack:** React Native, Node.js, Fastify, Google Maps SDK, WebSockets
+* **Status:** [![Status](https://img.shields.io/badge/Status-Under_Active_Development-FFA500?style=flat-square)](#)
 * **Key Architecture:**
-  * Shipped live ride-hailing app in an intensive 3-week delivery sprint[cite: 1].
-  * Built driver-side React Native app with Google Maps SDK integration for high-frequency location streaming[cite: 1].
-  * End-to-end supervision across passenger app, driver app, and backend gateway services[cite: 1].
+  * Currently architecting and developing the complete ecosystem: Driver App, Customer App, and core Backend.
+  * Integrating Google Maps SDK for high-frequency location streaming and driver-rider matching.
 
 </td>
 </tr>
@@ -79,24 +79,26 @@ Senior Full Stack Engineer and Engineering Lead with nearly 5 years of experienc
 <td width="50%" valign="top">
 
 ### 🎓 Vidhyapat — EdTech Ecosystem
-*Multi-portal educational suite built on MERN.*[cite: 1, 2]
+*Multi-portal educational suite built on MERN.*
 
-* **Role:** Full Stack Lead[cite: 1, 2]
-* **Stack:** React.js, Node.js, Express.js, MongoDB[cite: 1, 2]
+* **Role:** Full Stack Lead
+* **Stack:** React.js, Node.js, Express.js, MongoDB
+* **Live:** [![Website](https://img.shields.io/badge/Live-vidhyapat.com-00f2fe?style=flat-square&logo=googlechrome)](https://vidhyapat.com/)
 * **Key Architecture:**
-  * Unified CRM, LMS administration panel, student portal, and educator interface into a centralized system[cite: 1, 2].
-  * Role-based access control (RBAC) with JWT authentication[cite: 1, 2].
+  * Unified CRM, LMS administration panel, and student/educator interfaces.
+  * Role-based access control (RBAC) with JWT authentication.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Volta Services — Ride-Sharing Interface
-*Electric & fuel vehicle ride-sharing interfaces.*[cite: 1]
+### ⚡ Volta Services — Ride-Sharing Apps
+*Electric & fuel vehicle ride-sharing interfaces.*
 
-* **Role:** UI/UX Developer[cite: 1]
-* **Stack:** Ionic Framework, Figma, Adobe XD[cite: 1]
+* **Role:** UI/UX Developer
+* **Stack:** Ionic Framework, Figma, Adobe XD
+* **Live:** [![Driver App](https://img.shields.io/badge/App-Volta_Driver-00C99F?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.yourvolta.driver) [![Customer App](https://img.shields.io/badge/App-Volta_Customer-00C99F?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.yourvolta)
 * **Key Architecture:**
-  * Designed and built driver, user, and admin flows with in-app payments, scheduling, and live map views[cite: 1].
+  * Designed and developed the complete UI/UX flows for both the Customer Application and the Driver Application.
 
 </td>
 </tr>
@@ -104,17 +106,20 @@ Senior Full Stack Engineer and Engineering Lead with nearly 5 years of experienc
 
 ---
 
-## 📈 Engineering Leadership & Delivery Metrics
+## 📈 Engineering Impact & Cloud Deployments
 
-```mermaid
-flowchart LR
-    A[Requirements] --> B[Architecture]
-    B --> C[Sprint Planning]
-    C --> D[Code Review]
-    D --> E[Linode Release] 
-```
-Team Scale: Manage 8 engineers across frontend, backend, and mobile development tracks.
+* **Hands-On Core Development:** Primary contributor across the MERN stack and React Native, writing production code daily while mentoring a team of 8 engineers in a fast-paced startup environment.
+* **DevOps & CI/CD Pipelines:** Own the end-to-end deployment lifecycle, building automated CI/CD pipelines for dev/testing and scaling production environments across Linode, Cloudflare, Firebase, Vercel, and Render.
+* **Rapid Delivery:** Balanced sprint planning with active development to ship the Shippzi B2B platform in under 5 weeks and the Shippzi B2C live ride-hailing app in an intensive 3-week sprint.
 
-Delivery Velocity: Shipped Shippzi B2B to production in under 5 weeks, and Shippzi B2C in 3 weeks.
+---
 
-Production Ownership: Direct accountability for deployment pipelines, cloud provisioning on Linode, and live platform maintenance.
+<div align="center">
+
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Revanth_Vanjarapu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revanth-vanjarapu/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-revanth--vanjarapu.github.io-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=white)](https://revanth-vanjarapu.github.io/)
+[![Email](https://img.shields.io/badge/Email-vanjarapurevanthk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanjarapurevanthk@gmail.com)
+
+</div>
