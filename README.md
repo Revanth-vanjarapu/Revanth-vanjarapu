@@ -15,12 +15,12 @@
 
 <!-- METRICS DASHBOARD -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Revanth-vanjarapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revanth-vanjarapu&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=portfolio,Simple-ToDo,VRK-Restaurant" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Revanth-vanjarapu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revanth-vanjarapu&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=portfolio,Simple-ToDo,VRK-Restaurant&v=1" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Revanth-vanjarapu&theme=tokyonight&hide_border=true" width="97%" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Revanth-vanjarapu&theme=tokyonight&hide_border=true&v=1" width="97%" alt="Streak Stats" />
 </p>
 
 </div>
