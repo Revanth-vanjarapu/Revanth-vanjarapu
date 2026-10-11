@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Revanth Kumar Vanjarapu
+#   Revanth Kumar Vanjarapu
 ### Senior Full Stack Developer & Team Lead
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-revanth--vanjarapu.github.io-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=white)](https://revanth-vanjarapu.github.io/)
